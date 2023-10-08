@@ -33,11 +33,12 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O DevLinks é um agregador de links para usar como cartão de visitas online.
+O DevLinks é um agregador de links para usar como cartão de visitas online.<br>
+Eu utilizei para criar um link de visita ao meu portifólio no github.
 
-- [Acesse o projeto finalizado, online](https://maykbrito.github.io/devlinks)
+- [Acesse meu projeto final, online](https://bcadore.github.io/Dev-Link)
 
-- [Assistir aulas](https://lp.rocketseat.com.br/devlinks/inscricao?utm_source=github&utm_medium=descricao&utm_campaign=capture-devlinks&utm_term=organic&utm_content=descricao-github-mayk-brito)
+- [Se increva, assista as aulas e monte o seu também.](https://lp.rocketseat.com.br/devlinks/inscricao?utm_source=github&utm_medium=descricao&utm_campaign=capture-devlinks&utm_term=organic&utm_content=descricao-github-mayk-brito)
 
 ## 🔖 Layout
 
