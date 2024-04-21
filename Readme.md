@@ -27,70 +27,48 @@
 	🚧 Projeto concluído 🚧
 </h4>
 
-# 📋 ÍNDICE
-
-<!--ts-->
-
-- [Sobre](#-sobre-o-projeto)
-- [Estrutura do projeto](#-estrutura-do-projeto)
-- [Funcionalidades](#-funcionalidades)
-- [Tecnologias](#tecnologias)
-  - [Linguagens](#linguagens)
-  - [Ferramentas](#ferramentas)
-  - [IDE](#-ide)
-- [Visualizando o projeto](#-visualizando-o-projeto)
-- [Hospedagem](#-hospedagem)
-- [Autor](#-autor)
-- [Licença](#-licença)
-- [Outras considerações](#-outras-considerações)
-
 ## 💻 Sobre o projeto
 
-♻️ O DevLink - funciona como um agregador de links. Ele pode servir como um cartão de visitas online para uma pessoa ou até mesmo para uma empresa.
+O DevLink - funciona como um agregador de links. Ele pode servir como um cartão de visitas online para uma pessoa ou até mesmo para uma empresa.
 
 Para o meu projeto, utilizei o DevLink como um cartão de visitas que leva as pessoas ao meu portifólio de projetos no GitHub.
 
 O projeto foi desenvolvido durante a **NLW - Next Level Week** oferecida pela [Rocketseat](https://blog.rocketseat.com.br/primeira-next-level-week/).
 O NLW é uma experiência online com muito conteúdo prático, desafios onde o conteúdo fica disponível durante uma semana e te desafia a criar um projeto real e útil para compor o seu portifólio.
 
----
-
 ## ⚙️ Funcionalidades
 
 As funcionalidades desenvolvidas no projeto são:
 
-- [x] Funcionalidade 1
+- [x] **Perfil do Usuário**: Exibe uma imagem de perfil e um nome de usuário.
 
-  - Funcionalidade 1.1
-  - Funcionalidade 1.2
-  - Funcionalidade 1.3
+- [x] **Modo Escuro/Luz**: Permite alternar entre o modo escuro e o modo claro clicando em um botão de switch. O modo escuro altera o esquema de cores da página.
 
-- [x] Funcionalidade 2
-- [x] Funcionalidade 3
+- [x] **Links de Redes Sociais**: Fornece links para as redes sociais do usuário (GitHub, Instagram e LinkedIn), permitindo que os visitantes acessem seus perfis.
 
----
+- [x] **Links Externos**: Apresenta um link externo para o portfólio do usuário no GitHub.
+
+- [x] **Responsividade**: O layout da página é responsivo e se adapta a diferentes tamanhos de tela, proporcionando uma experiência consistente em dispositivos móveis e desktops.
+
+- [x] **Estilo Visual Atraente**: Utiliza a fonte "Inter" do Google Fonts para uma aparência moderna e legível. O design é limpo e organizado, com ênfase na usabilidade.
+
+- [x] **Animações Suaves**: As animações de transição do botão de switch são suaves e proporcionam uma experiência de usuário agradável.
+
+- [x] **Créditos no Rodapé**: Inclui créditos no rodapé, reconhecendo o desenvolvedor e a parceria com a RocketSeat.
+
+- [x] **Ícones de Rede Social**: Utiliza ícones de redes sociais fornecidos pela biblioteca Ionicons para uma aparência consistente e reconhecível.
+
+- [x] **Acessibilidade**: Os links são configurados para abrir em novas guias, proporcionando uma navegação conveniente e mantendo os usuários na página principal.
 
 ## 🛠 Tecnologias
 
 Foi utilizado na construção do projeto as seguintes tecnologias:
 
-#### Linguagens:
-
-- **[HTML](https://html.spec.whatwg.org/)**
-- **[CSS](https://www.w3.org/TR/css3-roadmap/)**
-- **[JavaScript](https://www.javascript.com/)**
-
-#### Ferramentas:
-
-- **[Git](https://git-scm.com/)**
-- **[GitHub](https://github.com/)**
-- **[Figma](https://www.figma.com/)**
-
-#### IDE:
-
-- **[vsCode](https://code.visualstudio.com/)**
-
-
+<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" title = "HTML5"/></code> **HTML**
+<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" title = "CSS3"/></code> **CSS**
+<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title = "JAVASCRIPT"/></code> **JavaScript**
+<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title = "GIT"/></code> **Git**
+<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title = "GITHUB"/></code> **GitHub**
 
 ## 👀 Visualizando o projeto
 
@@ -124,8 +102,6 @@ Este projeto esta sobe a licença [MIT](./LICENSE).
 
 
 ## ⚠️ Outras considerações
-
-👉 **Este projeto é parte de uma tarefa educacional, foi desenvolvido apenas para testar na prática as habilidades aprendidas em aula. Sinta-se à vontade para fornecer um feedback construtivo ou sugestões de melhorias.**
 
 👉 **[Se increva, assista as aulas e monte o seu também.](https://lp.rocketseat.com.br/devlinks/inscricao?utm_source=github&utm_medium=descricao&utm_campaign=capture-devlinks&utm_term=organic&utm_content=descricao-github-mayk-brito)**
 
